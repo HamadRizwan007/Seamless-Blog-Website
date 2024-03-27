@@ -1,6 +1,6 @@
 # Seamless Blog Website
 
-Welcome to the Seamless Blog Website repository! This project is aimed at creating a stunningly responsive and easy-to-manage blog website. Leveraging the latest web technologies like HTML, CSS, Bootstrap, and JavaScript, this website offers a seamless browsing experience across various devices.
+Welcome to the Seamless Blog Website repository! This project is aimed at creating a stunningly responsive and easy-to-manage blog website. Leveraging a combination of modern web technologies and frameworks, this website offers a seamless browsing experience across various devices.
 
 ## Features
 
@@ -14,10 +14,12 @@ Welcome to the Seamless Blog Website repository! This project is aimed at creati
 
 ## Technologies Used
 
-- HTML
+- HTML5
 - CSS
 - Bootstrap
 - JavaScript
+- PHP
+- WordPress
 
 ## Getting Started
 
